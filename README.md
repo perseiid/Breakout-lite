@@ -1,8 +1,8 @@
-# Игра на python(tkinter)
-Breakout-lite
+# Breakout-lite
+Игра на python(tkinter)
 ***
 ## Описание
-Лайт версия известной игры.
+Лайт версия известной игры Breakout.
 
 ### Библиотеки и документации
 Tkinter - https://docs.python.org/3/library/tkinter.html <br>
