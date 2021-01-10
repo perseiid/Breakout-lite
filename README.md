@@ -1,5 +1,4 @@
-# Breakout-lite
-Игра на python(tkinter)
+# Игра на python(tkinter)
 ***
 ## Описание
 Лайт версия известной игры Breakout.
